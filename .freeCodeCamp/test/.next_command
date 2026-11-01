@@ -133,3 +133,8 @@ __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+./student_info.sh
+./student_info.sh
+./student_info.sh
+./student_info.sh
+./student_info.sh
